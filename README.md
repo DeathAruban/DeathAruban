@@ -12,6 +12,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DeathAruban&show_icons=true&locale=en" alt="DeathAruban" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username={DeathAruban}" alt="DeathAruban" /></p>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Death_Aruban&theme=dark&hide_border=false)
 
 ---
